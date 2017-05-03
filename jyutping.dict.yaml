@@ -15,6 +15,100 @@ max_phrase_length: 7
 min_phrase_weight: 100
 ...
 
+# 缺字/詞
+
+俖	poi
+蹺蹊	kiu kei
+
+# 新音
+
+了	let
+喵	miaau
+
+# 本字
+
+等	dei
+勿	me
+勿	mai
+爾	ni
+劈	pai
+合	ngaam
+恰	ngaam
+怎	dim
+焉	bin
+毋	m
+也	je
+睏	fan
+恁	gam
+尐	di
+忌	ge
+擁	ung
+㧻	duk
+鑽	gyun
+𧥺	kwan
+攰	gui
+滮	biu
+𧨾	tam
+拃	zaa
+尚	zung
+眲	ngak
+澌	saai
+徂	zo
+來	lei
+
+今下	gaa haa
+而今	ji gaa
+旮旯	kaa laa
+隔籬	gaak lei
+謦欬	king gai
+
+# 文白異讀
+
+不	m		# 毋
+是	hai		# 係
+些	di		# 尐
+在	hai		# (喺)
+他	keoi	# 佢
+她	keoi	# 佢
+它	keoi	# 佢
+給	bei		# 畀
+的	ge		# 忌、其、(嘅)
+哄	tam		# 𧨾
+找	wan		# 搵
+了	zo		# 徂、(咗)
+怒	nau		# 嬲
+吧	gwaa	# (啩)
+對	ngaam	# 合
+動	juk		# 逳
+還	zung	# 重、尚、(仲)
+看	tai		# 睇
+久	noi		# 耐
+隻	zi		# 隻
+哪	bin		# 焉
+那	go		# 嗰
+這	ni		# 爾
+也	dou		# 都
+累	gui		# 攰
+背	me		# 孭
+欺	haa		# 吓、狎
+
+而已	ze			# (啫)
+那麼	gam			# (咁)
+什麼	mat je		# (乜嘢)
+什麼	me je		# (乜嘢)
+吉他	git taa		# ..
+明天	ting jat	# (聽日)
+另是	ding hai	# 定是
+人家	jan dei		# (人哋)
+起來	hei san		# 起身
+難道	m tung		# 毋通
+你們	nei dei		# 你等、(你哋)
+隔壁	gaak lei	# 隔離
+噁心	wat dat		# 鶻突
+
+
+# 原字典
+
 吖	aa	10000
 㝞	aa
 㰳	aa
